@@ -24,7 +24,21 @@ My research sits at the intersection of robotics, control theory, and machine le
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+# 🎖 Honors and Awards
+- *07/2018* **Best Paper Award Finalists**, by The 2018 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).
+- *06/2016* **Best Conference Paper Award**, by The 2016 IEEE International Conference on Real-time Computing and Robotics (RCAR).
+
+# 📖 Educations
+- *2014.08 - 2019.03*, PhD, Nanyang Technological University, Singapore.
+- *2010.09 - 2014.06*, Bachelor, Sichuan University, China. 
+
+# 📖 Work experiences
+- *2025.09 - now*, Assistant Professor, Nanjing University, China.
+- *2022.09 - 2025.08*, Research Assistant/Associate Professor, Westlake University, China.
+- *2019.09 - 2022.09*, Postdoctoral Fellow, Hangzhou Innovation Institute of Beihang University, China.
+- *2018.09 - 2019.06*, Research Fellow, Nanyang Technological University, Singapore.
 
 # 📝 Recent Publications 
 
@@ -293,16 +307,4 @@ Automatica, vol. 120, pp.109-120, 2020.
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *07/2018* **Best Paper Award Finalists**, by The 2018 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).
-- *06/2016* **Best Conference Paper Award**, by The 2016 IEEE International Conference on Real-time Computing and Robotics (RCAR).
 
-# 📖 Educations
-- *2014.08 - 2019.03*, PhD, Nanyang Technological University, Singapore.
-- *2010.09 - 2014.06*, Bachelor, Sichuan University, China. 
-
-# 📖 Work experiences
-- *2025.09 - now*, Assistant Professor, Nanjing University, China.
-- *2022.09 - 2025.08*, Research Assistant/Associate Professor, Westlake University, China.
-- *2019.09 - 2022.09*, Postdoctoral Fellow, Hangzhou Innovation Institute of Beihang University, China.
-- *2018.09 - 2019.06*, Research Fellow, Nanyang Technological University, Singapore.
