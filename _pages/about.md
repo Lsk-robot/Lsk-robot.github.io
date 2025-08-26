@@ -37,7 +37,7 @@ My research sits at the intersection of robotics, control theory, and machine le
 - *2018.09 - 2019.06*, Research Fellow, Nanyang Technological University, Singapore.
 
 # 🎖 Honors and Awards
-- *07/2018* **Best Paper Award Finalists**, by The 2018 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).
+- *07/2018* **Best Paper Award Finalists**, by The 2018 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).
 - *06/2016* **Best Conference Paper Award**, by The 2016 IEEE International Conference on Real-time Computing and Robotics (RCAR).
 
 # 📝 Recent Publications 
