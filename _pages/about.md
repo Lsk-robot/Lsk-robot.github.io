@@ -27,7 +27,8 @@ We are actively looking for
 - Research assistant
 - Interns
 - Collaboration
-If you are interested in my reseach, feel free to deop me an email at .
+  
+If you are interested in my reseach, feel free to drop me an email at .
 
 
 # 🔥 News
