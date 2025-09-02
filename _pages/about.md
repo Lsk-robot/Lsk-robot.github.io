@@ -42,6 +42,8 @@ I have founded the
 
 # 📝 Recent Publications 
 
+"+" equal contribution
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS2025</div><img src='images/iros2025_cover.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -311,4 +313,4 @@ Automatica, vol. 120, pp.109-120, 2020.
 
 - Associate Editor, the 5th International Symposium on Autonomous System, 2021.
 - Session Chair of robot motion control and decision-making, the 5th International Symposium on Autonomous System, 2021.
-- Manuscript Reviewer: Automatica, IEEE TMech, IEEE TCST, IEEE TSMCSystems, IEEE TCyber, IEEE TASE, IEEE RAL, JFR, ICRA, IROS, CASE, ROBIO, CDC, ACC, ICUAS, MED, ICCA, ICARCV.
+- Manuscript Reviewer: Automatica, IEEE TMech, IEEE TCST, IEEE TSMC-Systems, IEEE TCyber, IEEE TASE, IEEE RAL, JFR, ICRA, IROS, CASE, ROBIO, CDC, ACC, ICUAS, MED, ICCA, ICARCV.
