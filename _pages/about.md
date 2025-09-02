@@ -140,7 +140,7 @@ IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2303-2310, 2025.
 
 **Shangke Lyu**, Yu Zhang, Jianliang Wang, Chien Chern Cheah, Xiang Yu, 
 
-IEEE Transactions on Automation Science and Engineering,vol. 22, pp. 4076-4091, 2025.
+IEEE Transactions on Automation Science and Engineering,vol. 22, pp. 4076-4091, 2025.
 
 - In this paper, a refined anti-disturbance control architecture is proposed for the decentralized aerial manipulator model, where various disturbances with different mathematical properties are well explored and tackled according to their positions and effects acting on the system.
 </div>
