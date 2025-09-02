@@ -26,14 +26,14 @@ We are actively looking for
 - Master student
 - Research assistant
 - Interns
+- Visiting Student
 - Collaboration
   
 If you are interested in my reseach, feel free to drop me an email at .
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2025.09*: &nbsp;🎉🎉 I will join School of Robotics and Automation, Nanjing University (Suzhou Campus) as an Assistant Professor.
 
 # 📖 Educations
 - *2014.08 - 2019.03*, PhD, Nanyang Technological University, Singapore.
