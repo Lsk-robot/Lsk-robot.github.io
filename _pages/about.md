@@ -42,7 +42,7 @@ I have founded the
 
 # 📝 Recent Publications 
 
-"+" equal contribution
+"†" equal contribution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS2025</div><img src='images/iros2025_cover.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
