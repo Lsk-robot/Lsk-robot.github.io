@@ -21,7 +21,7 @@ redirect_from:
 
 I am Shangke Lyu （吕尚可）, an Assistant Professor in Nanjing University. I obtained my Ph.D. degree from Nanyang Technological University under the supervision of Prof. Chien Chern Cheah (IEEE Fellow). After that, I joined the Hangzhou Innovation Institute of Beihang University as a Postdoctoral Fellow, working with Prof. Lei Guo (Academician of the Chinese Academy of Sciences). From September 2022 to August 2025, I was a Research Assistant/Associate Professor at Westlake University. Since September 2025, I have been with the School of Robotics and Automation, Nanjing University.
 
-My research sits at the intersection of robotics, control theory, and machine learning, with a focus on ensuring **trustworthy, transparent, and explainable robot motion behavior generation** through a combination of data-driven learning and model-based optimal control. My research interests span the fields of robot motion control, reinforcement learning, and autonomous behavior generation in open world, with applications to legged robot locomotion, human-robot interaction and embodied AI (VLA, world model). We are actively looking for
+My research sits at the intersection of robotics, control theory, and machine learning, with a focus on ensuring **trustworthy, transparent, and explainable robot motion behavior generation** through a combination of data-driven learning and model-based optimal control. My research interests span the fields of robot motion control, reinforcement learning, and autonomous behavior generation in open world, with applications to legged robot locomotion, human-robot interaction and embodied AI (Difussion Policy, VLA, world model). We are actively looking for
 - Phd Student (fall/2026)
 - Master Student
 - Research Assistant
