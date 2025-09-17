@@ -33,7 +33,7 @@ If you are interested in my reseach, feel free to drop me an email at .
 
 
 # 🔥 News
--*2025.09*: &nbsp; I will serve as Associate Editor for ICRA2026@ Vienna, Austria.
+- *2025.09*: &nbsp; I will serve as Associate Editor for ICRA2026@ Vienna, Austria.
 - *2025.09*: &nbsp;🎉🎉 I will join School of Robotics and Automation, Nanjing University (Suzhou Campus) as an Assistant Professor.
 
 # 📖 Educations
