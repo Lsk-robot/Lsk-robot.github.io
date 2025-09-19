@@ -210,7 +210,7 @@ Control Engineering Practice, vol.146, 2024.
 
 Yanran Wei, **Shangke Lyu**, Wenshuo Li, Xiang Yu, Zidong Wang, Lei Guo,
 
-IEEE Transactions on Automation Science and Engineering, vol. 21, no. 3, pp. 3524-3537, 2024.
+IEEE Transactions on Automation Science and Engineering, vol. 21, no. 3, pp. 3524-3537, 2024.
 
 - In this article, we consider the depth estimation problem for the perspective vision system in the case that the camera angular velocities are accurate, while partial camera linear velocities are contaminated by some disturbances.
 </div>
