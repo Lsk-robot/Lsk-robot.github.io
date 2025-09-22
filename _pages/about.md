@@ -48,7 +48,7 @@ If you are interested in my reseach, feel free to drop me an email at .
 - *2019.09 - 2022.09*, Postdoctoral Fellow, Hangzhou Innovation Institute of Beihang University, China.
 - *2018.09 - 2019.06*, Research Fellow, Nanyang Technological University, Singapore.
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *07/2018* **Best Paper Award Finalists**, by The 2018 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).
 - *06/2016* **Best Conference Paper Award**, by The 2016 IEEE International Conference on Real-time Computing and Robotics (RCAR).
 
@@ -321,7 +321,7 @@ Automatica, vol. 120, pp.109-120, 2020.
 </div>
 </div>
 
-# 🪧 Professional activities
+# ✍️ Professional activities
 
 - Associate Editor, the 5th International Symposium on Autonomous System, 2021.
 - Session Chair of robot motion control and decision-making, the 5th International Symposium on Autonomous System, 2021.
