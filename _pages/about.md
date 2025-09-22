@@ -23,7 +23,7 @@ I am Shangke Lyu （吕尚可）, an Assistant Professor in Nanjing University. 
 
 # 🪧Research interest
 
-My research sits at the intersection of robotics, control theory, and machine learning, with a focus on ensuring **trustworthy, transparent, and explainable robot motion behavior generation** through a combination of data-driven learning and model-based optimal control. My research interests span the fields of robot motion control, reinforcement learning, and autonomous behavior generation in open world, with applications to legged robot locomotion, human-robot interaction and embodied AI (Difusion Policy, VLA, World Model). We are actively looking for
+My research sits at the intersection of robotics, control theory, and machine learning, with a focus on ensuring **trustworthy, transparent, and explainable robot motion behavior generation** through a combination of data-driven learning and model-based optimal control. My research interests span the fields of robot motion control, reinforcement learning, and autonomous behavior generation in open world  (Difusion Policy, VLA, World Model,...), with applications to legged robot locomotion, human-robot interaction and embodied AI. We are actively looking for
 - Phd Student (fall/2026)
 - Master Student
 - Research Assistant
