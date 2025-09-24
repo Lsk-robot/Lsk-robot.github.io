@@ -25,10 +25,10 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Assistant Professor"
   location         : "Suzhou, China"
+  email            : "shangke_lyu@nju.edu.cn"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "shangke_lyu@nju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
