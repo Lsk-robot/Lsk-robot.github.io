@@ -31,7 +31,7 @@ My research sits at the intersection of robotics, control theory, and machine le
 - Visiting Student
 - Collaboration
   
-If you are interested in my reseach, feel free to drop me an email at .
+If you are interested in my reseach, feel free to drop me an email at shangke_lyu@nju.edu.cn.
 
 
 # 🔥 News
