@@ -33,6 +33,7 @@ If you are interested in my reseach, feel free to drop me an email at shangke_ly
 
 
 # 🔥 News
+- *2026.02*: &nbsp; 🎉 One paper has been accepted by CVPR 2026! Congratulations to my collaborator Minghui Lin and all the co-authors.
 - *2026.01*: &nbsp; 🎉 One paper has been accepted by ICRA 2026! Congratulations to my collaborator Zhefei Gong and all the co-authors.
 - *2025.11*: &nbsp; 🎉 One paper has been accepted by AAAI 2026! Congratulations to my collaborator Jian Song and all the co-authors.
 - *2025.09*: &nbsp; I will serve as an Associate Editor for ICRA2026@ Vienna, Austria.
