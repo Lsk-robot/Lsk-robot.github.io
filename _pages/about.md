@@ -330,4 +330,4 @@ Automatica, vol. 120, pp.109-120, 2020.
 
 - Associate Editor, the 5th International Symposium on Autonomous System, 2021.
 - Session Chair of robot motion control and decision-making, the 5th International Symposium on Autonomous System, 2021.
-- Manuscript Reviewer: Automatica, IEEE TMech, IEEE TCST, IEEE TSMC-Systems, IEEE TCyber, IEEE TASE, IEEE RAL, JFR, ICRA, IROS, CASE, ROBIO, CDC, ACC, ICUAS, MED, ICCA, ICARCV.
+- Manuscript Reviewer: Automatica, IEEE TMech, IEEE TCST, IEEE TSMC-Systems, IEEE TCyber, IEEE TASE, IEEE RAL, JFR, ICRA, IROS, CASE, ROBIO, CDC, ACC, ICUAS, MED, ICCA, ICARCV, ICML, NeurIPS.
