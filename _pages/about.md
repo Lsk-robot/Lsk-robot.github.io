@@ -34,7 +34,7 @@ If you are interested in my reseach, feel free to drop me an email at shangke_ly
 
 # 🔥 News
 - *2026.08*: &nbsp; I will serve as an Associate Editor for ICRA2027@ Seoul, South Korea.
-- *2026.07*: &nbsp; 🎉 I will serve as an Associate Editor for IEEE Robotics and Automation Letters (RA-L).
+- *2026.07*: &nbsp; I will serve as an Associate Editor for IEEE Robotics and Automation Letters (RA-L).
 - *2026.06*: &nbsp; 🎉 One paper has been accepted by IROS 2026! Congratulations to my collaborator Ning Liu and all the co-authors.
 - *2026.05*: &nbsp; 🎉 One paper has been accepted by CASE 2026! Congratulations to my collaborator Wei Xiao and all the co-authors.
 - *2026.05*: &nbsp; 🎉 One paper has been accepted by ICML 2026! Congratulations to my collaborator Zirui Ge, Pengxiang Ding and all the co-authors.
